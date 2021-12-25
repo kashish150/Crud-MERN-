@@ -1,0 +1,84 @@
+.App {
+  text-align: center;
+}
+h1 {
+  color: rgb(94, 150, 255);
+}
+
+.formcss {
+  background-color: rgb(94, 150, 255) e;
+  color: rgb(94, 150, 255);
+  margin: auto;
+  max-width: 50%;
+  border: 1px solid rgb(94, 150, 255);
+  margin-top: 50px;
+  max-height: 60%;
+}
+.form input {
+  padding: 5px;
+  margin: 5px;
+  width: 40%;
+}
+.form > input {
+  max-width: 800px;
+  border-radius: 15px;
+}
+.ofrom {
+  max-width: 30%;
+  margin: auto;
+}
+.form > button {
+  margin-left: 80px;
+  border-radius: 15px;
+  padding: 10px;
+}
+.form > button:hover {
+  background-color: black;
+  color: white;
+}
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.li {
+  color: white;
+  border-radius: 15px;
+  list-style: none;
+  padding: 10px;
+}
+nav {
+  margin: 0;
+  background-color: rgb(94, 150, 255);
+}
+nav {
+  font-size: 30px;
+  color: white;
+}
+.nbutton {
+  background-color: rgb(77, 77, 211);
+  color: white;
+  font-size: 15px;
+  border-radius: 10px;
+}
+
+td {
+  border: none;
+}
+.data {
+  max-width: 80%;
+  margin: auto;
+}
+table > button {
+  border-radius: 10px;
+  padding: 4px;
+}
+.heading {
+  text-align: center;
+  font-size: 50px;
+  font-weight: 200;
+}
